@@ -1,0 +1,55 @@
+body {
+    background-image:linear-gradient(to left, #eb8873,#04e60c);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    align-content: center;
+    margin-top: 15rem;
+}
+
+#myBtn {
+    background-color: #56d634;
+    margin-right: 35px;
+}
+
+#myBtn2 {
+    background-color: #ae216c;
+}
+
+.btn{
+    font-size: 1.2rem;
+    font-weight: 1.2rem;
+    height: 50px;
+    width: 200px;
+    border-radius: 50px;
+    border: none;
+}
+
+.btn:hover {
+    cursor: pointer;
+    background-color: #0001;
+    border:2px solid #2b581f;
+    box-shadow: 10px 10px 50px rgb(27, 27, 66);
+}
+
+h2 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif   ;
+    font-weight: 1000;
+    margin-top: 50px;
+
+}
+
+.copyCode {
+    height: 80px;
+    width: 350px;
+    margin-top: 2.5rem;
+    border-radius: 45px;
+    margin-left: 50px;
+    font-size: 1.5rem;
+}
+
+.copyCode:hover{
+    cursor: pointer;
+    background-color: #b8bbb8;
+}
